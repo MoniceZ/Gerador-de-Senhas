@@ -18,7 +18,7 @@ Ideal para uso pessoal ou como demonstração de boas práticas em GUI com Pytho
 ---
 
 ## 🖼️ Preview
-<img width="895" height="613" alt="image" src="https://github.com/user-attachments/assets/a6b870f7-cc33-4d10-a5d6-f735c82b4cee" />
+<img width="695" height="413" alt="image" src="https://github.com/user-attachments/assets/a6b870f7-cc33-4d10-a5d6-f735c82b4cee" />
 
 
 ---
