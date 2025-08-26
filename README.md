@@ -1,19 +1,30 @@
-# Gerador de Senhas (CustomTkinter)
+# 🔑 Gerador de Senhas (CustomTkinter)
 
-Aplicativo desktop em Python para gerar senhas seguras.
+Aplicativo desktop em **Python** com **CustomTkinter** para criação de senhas fortes e seguras.  
+Ideal para uso pessoal ou como demonstração de boas práticas em GUI com Python.
 
-## Recursos
-- Comprimento configurável
-- Seleção de conjuntos (a-z, A-Z, 0-9, símbolos)
-- Evitar caracteres ambíguos
-- Exclusão de caracteres custom
-- Barra de força (entropia em bits)
-- Histórico com salvar em `.txt`
-- Interface responsiva com CustomTkinter
+---
 
-## Instalação
+## 🚀 Funcionalidades
+- 📏 **Comprimento configurável** (4 a 128 caracteres)  
+- 🔠 **Conjuntos de caracteres**: letras minúsculas, maiúsculas, números e símbolos  
+- 🚫 **Evitar caracteres ambíguos** (ex.: `0, O, l, 1`)  
+- ✍️ **Exclusão personalizada** de caracteres indesejados  
+- 📊 **Barra de força com entropia em bits**  
+- 📝 **Histórico de senhas geradas** com opção de salvar em `.txt`  
+- 🎨 **Interface moderna e responsiva** usando [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)  
+- 🌗 Suporte a **temas** (claro, escuro e sistema)
+
+---
+
+## 🖼️ Preview
+*(adicione aqui um print da tela do programa para deixar o portfólio mais atrativo)*  
+
+---
+
+## 📦 Instalação
+
+### 1. Clonar o repositório
 ```bash
 git clone https://github.com/SEU_USUARIO/gerador-senhas.git
 cd gerador-senhas
-pip install -r requirements.txt
-python main.py
